@@ -1,6 +1,6 @@
 # A* Pathfinding Algorithm
 
-This is an implementation of the A* pathfinding algorithm created by Danielle Bottiger, Viktor Chekhovoi, Zack Johnson, and Micael Worrell. It was part of our CS 252 Algorithms Final at Carleton College. 
+This is an implementation of the A* pathfinding algorithm created by Danielle Bottiger, Viktor Chekhovoi, Zack Johnson, and Micael Worrell. It was part of our CS252 Algorithms Final at Carleton College during the Winter 2021 Trimester.
 
 ## Getting Started
 
